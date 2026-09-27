@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-107.0.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-108.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/analyzer-14.3.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/analyzer-14.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.11"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_core_platform_interface-df6c156996ee80474d4fc40a236c31f1df79db0b/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_core_platform_interface-23f2f2fc085416ac0b51135f39f02bdc45b54e2b/",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -123,9 +123,9 @@
     },
     {
       "name": "firebase_messaging_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_messaging_platform_interface-18b64ee20a4c523bffe26f25b7bfba355fdb546f/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_messaging_platform_interface-d7efcad816cf6bc81e1717a859e14c916a2a9958/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "fixnum",
@@ -153,7 +153,7 @@
     },
     {
       "name": "flutterfire_internals",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutterfire_internals-361008abc9c6c719ce3e7281bfd6ba57d9a8e84c/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutterfire_internals-602bf3f5a0b8b094b1eda6212433425d14f25a32/",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -291,7 +291,7 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vector_math-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vector_math-2.4.3",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
